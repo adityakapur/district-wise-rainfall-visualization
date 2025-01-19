@@ -1,0 +1,1 @@
+This is a Jupyter Notebook that utilizes pandas and geopandas libraries to load and manipulate spatial data and also uses matplotlib library for creating visualization of the district-wise rainfall data.
